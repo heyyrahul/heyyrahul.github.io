@@ -1165,3 +1165,15 @@ footer span {
   display: block;
   animation: rotateY 10s linear infinite;
 }
+
+.dark-theme {
+  background-color: #1e1e1e;
+  color: #fcfcfc;
+}
+
+.dark-theme {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+
